@@ -53,3 +53,5 @@ If you find this project helpful, please consider to cite the following paper:
 ```
 under review
 ```
+
+**Read this in other languages: [简体中文](readme/README_zh.md)**
